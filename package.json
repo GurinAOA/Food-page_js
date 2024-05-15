@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/GurinAOA/Food-page_js#readme",
   "devDependencies": {
-    "json-server": "^1.0.0-alpha.23"
+    "json-server": "^1.0.0-alpha.23",
+    "webpack-cli": "^5.1.4"
   }
 }
